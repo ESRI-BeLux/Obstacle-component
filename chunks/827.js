@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkobstacle_component=self.webpackChunkobstacle_component||[]).push([[827],{20827:(e,c,s)=>{s.r(c),s.d(c,{build:()=>b.b}),s(84614),s(63371),s(24603),s(23410),s(3961),s(21414);var b=s(51027)}}]);
